@@ -67,3 +67,17 @@ asyncCall();
 
  ## Badge
  <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white" />
+
+# Git 용어 정의
+
+
+## master(main)
+> local repository의 branch name 이다.
+
+
+## origin/master(main)
+> remote repository의 branch name 이다.
+
+
+## origin
+> remote repository 이다.
